@@ -1,0 +1,382 @@
+
+body{
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+/* hader start */
+.headerdiv{
+    height: 200px;
+    width: 100%;
+}
+.upernav{
+    height: 60px;
+    width: 100%;
+    background-color:#ffc107;
+}
+.upernavleft{
+    float: left;
+    width: 206.5px;
+    margin-left: 190px;
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.upernavimg{
+    height: 25px;
+
+}
+.uperface{
+    float: left;
+    width: 50px;
+    
+
+}
+.upertwit{
+    float: left;
+    width: 50px;
+    
+
+}
+.uperinsta{
+    float: left;
+    width: 50px;
+    
+
+}
+.uperlink{
+    float: right;
+    width: 50px;
+    
+
+}
+.upernavright{
+    float: right;
+
+    margin-top: 15px;
+    margin-right: 220px;
+    
+}
+.uperspan{
+    font-size: 18px;
+}
+.downleft{
+    float: left;
+    
+    margin-left: 190px;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.downright{
+    float: left;
+   
+    margin-top: 40px;
+   
+    width: 750px;
+    height: 40px;
+    padding-top: 15px;
+}
+.logindiv{
+    float: right;
+    margin-right: 198px;
+    background-color: #ffc107;
+    height: 30px;
+    width: 100px;   
+    margin-top: 40px;
+    padding-top: 12px;
+    border-radius: 10px;
+}
+.homediv{
+    float: left;
+    width: 120px;
+    color: #ffc107;
+        
+}
+.aboutdiv{
+    float: left;
+    width: 120px;
+        
+}
+.productdiv{
+    float: left;
+    width: 120px;
+        
+}
+.blogdiv{
+    float: left;
+    width: 120px;
+       
+}
+.contactdiv{
+    float: left;
+    width: 120px;
+        
+}
+.signupdiv{
+    float: left;
+    width: 120px;
+        
+}
+.homebutton{
+    background-color: white;
+    border: 2px solid white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+
+}
+.homebuttony{
+    background-color: white;
+    border: 2px solid white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffc107;
+    text-decoration: none;
+
+}
+
+.homebutton:hover{
+    color: #ffc107;
+}
+
+
+.homebutton1{
+    background-color:#ffc107;
+    height: 60px;
+    width: 120px;
+    color: black;
+    text-decoration: none;
+    
+  
+    font-size: 16px;
+    font-weight: 500;
+}
+.homebutton1:hover{
+    color: white;
+}
+/* header complete */
+.aboutcontain{
+    height: 170px;
+    width: 100%;
+    background-color: #ffc107;
+    padding-top: 40px;
+
+}
+.h1about{
+    font-size: 45px;
+    font-weight: 700;
+
+}
+.contain{
+    height: 480px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 90px;    
+}
+.formdiv{
+    height: 480px;
+    width: 80%;
+    justify-content: center;
+}
+
+.namediv{
+    margin-left: 80px;
+    float: left;
+    width: 500px;
+    border: 2px solid #ffc107;
+    height: 50px;
+}
+.emaildiv{
+    margin-left: 40px;
+    float: left;
+    width: 500px;
+    border: 2px solid #ffc107;
+    height: 50px;
+}
+.input1{
+    width: 450px;
+    height: 40px;
+    border: none ;
+}
+.phonediv{
+    margin-left: 80px;
+    width: 1043px;
+    height: 50px;
+    border: 2px solid #ffc107;
+    
+}
+.input2{
+    width: 998px;
+    height: 40px;
+    border: 2px solid #ffffff ;
+}
+.messagediv{
+    margin-left: 80px;
+    width: 1043px;
+    height: 200px;
+    border: 2px solid #ffc107;
+    
+}
+.input3{
+    width: 998px;
+    height: 40px;
+    border: 2px solid #ffffff ;
+}
+.button{
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: 2px solid black;
+}
+.button:hover{
+    background-color: #ffc107;
+    border: 2px solid #ffc107;
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer start */
+
+.footermain{
+    background-color: #1b1b1b;
+    height: 586px;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+.footersocial{
+    float: none;
+    width: 326.5px;
+    margin-left: 600px;
+    padding-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.lowernavimg{
+    height: 35px;
+
+}
+.lowerface{
+    float: left;
+    width: 80px;
+    
+
+}
+.lowertwit{
+    float: left;
+    width: 80px;
+    
+
+}
+.lowerinsta{
+    float: left;
+    width: 80px;
+    
+
+}
+.lowerlink{
+    float: right;
+    width: 80px;
+    
+
+}
+.footerlinkmain{
+    height: 300px;
+    width: 80%;
+    margin-left: 140px;
+    margin-top: 15px;
+}
+.footercontact{
+    float: left;
+    height: 300px;
+    width: 24.86%;    
+
+}
+.footeradditional{
+    float: left;
+    height: 300px;
+    width: 24.87%;
+    text-align: left;
+}
+.footerservice{
+    float: left;
+    height: 300px;
+    width: 24.87%;
+    text-align: left;
+}
+.footerabout{
+    float: left;
+    height: 300px;
+    width: 24.86%;
+    text-align: left;
+}
+h2{
+    color: white;
+    text-align: left;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+address{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: left;
+    line-height: 40px;
+}
+.additionallinks{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: left;
+    line-height: 40px;
+}
+.additionallinks:hover{
+    color: #ffc107;
+}
+.aboutp{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+}
+.copyright{
+    height: 42px;
+    width: 100%;
+    background-color: #ffc107;
+    color: black;
+    padding-top: 18px;
+}
+.copyspan{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 20px;    
+}
+.copyspan1{
+    text-decoration: none;
+    color: black;
+}
+.copyspan1:hover{
+    color: white;
+}

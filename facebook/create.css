@@ -1,0 +1,100 @@
+body{
+    background-color: #f2f4f7;
+    color: #1c1e21;
+    text-align: center;
+    justify-content: center;
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+.imagehead{
+    height: 100px;
+
+}
+.main{
+    height: 700px;
+    width: 430px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 530px;
+    box-shadow: 0 2px 4px #0000001a, 0 8px 16px #0000001a;
+    position: relative;
+    text-align: center;
+    margin-top: -10px;
+}
+.heading{
+    padding-top: 12px;
+
+}
+.passeage{
+    color: #606770;
+    margin-top: -15px;
+}
+
+.input1{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 35px;
+    font-size: 15px;
+    color: #c6c9cc;
+    width: 190px;
+    border: 0.1px solid #dddde0;
+    border-radius: 5px;
+}
+
+.second{
+    margin-left: 20px;
+    text-align: left;
+    color: #606770;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+.footermain{
+  height: 200px;
+  background-color: white;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+
+}
+.language{
+  color: #8a8d91;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 10px;
+  font-size: 12px;
+
+}
+.language:hover{
+  text-decoration: underline;
+}
+.upper{
+  margin-left: -355px;
+  padding-top: 10px;
+}
+.hr1{
+  margin-top: -10px;
+  width: 990px;
+  margin-left: 280px;
+  color: #8a8d91;
+}
+.lower{
+  margin-left: 280px;
+  margin-right: 200px;
+  text-align: left;
+}
+.footerlinks{
+  color: #8a8d91;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 20px;
+  font-size: 12px;
+}
+.footerlinks:hover{
+  text-decoration: underline;
+}

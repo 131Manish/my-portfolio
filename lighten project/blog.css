@@ -1,0 +1,411 @@
+
+body{
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+/* hader start */
+.headerdiv{
+    height: 200px;
+    width: 100%;
+}
+.upernav{
+    height: 60px;
+    width: 100%;
+    background-color:#ffc107;
+}
+.upernavleft{
+    float: left;
+    width: 206.5px;
+    margin-left: 190px;
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.upernavimg{
+    height: 25px;
+
+}
+.uperface{
+    float: left;
+    width: 50px;
+    
+
+}
+.upertwit{
+    float: left;
+    width: 50px;
+    
+
+}
+.uperinsta{
+    float: left;
+    width: 50px;
+    
+
+}
+.uperlink{
+    float: right;
+    width: 50px;
+    
+
+}
+.upernavright{
+    float: right;
+
+    margin-top: 15px;
+    margin-right: 220px;
+    
+}
+.uperspan{
+    font-size: 18px;
+}
+.downleft{
+    float: left;
+    
+    margin-left: 190px;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.downright{
+    float: left;
+   
+    margin-top: 40px;
+   
+    width: 750px;
+    height: 40px;
+    padding-top: 15px;
+}
+.logindiv{
+    float: right;
+    margin-right: 198px;
+    background-color: #ffc107;
+    height: 30px;
+    width: 100px;   
+    margin-top: 40px;
+    padding-top: 12px;
+    border-radius: 10px;
+}
+.homediv{
+    float: left;
+    width: 120px;
+    color: #ffc107;
+        
+}
+.aboutdiv{
+    float: left;
+    width: 120px;
+        
+}
+.productdiv{
+    float: left;
+    width: 120px;
+        
+}
+.blogdiv{
+    float: left;
+    width: 120px;
+       
+}
+.contactdiv{
+    float: left;
+    width: 120px;
+        
+}
+.signupdiv{
+    float: left;
+    width: 120px;
+        
+}
+.homebutton{
+    background-color: white;
+    border: 2px solid white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+
+}
+.homebuttony{
+    background-color: white;
+    border: 2px solid white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffc107;
+    text-decoration: none;
+
+}
+
+.homebutton:hover{
+    color: #ffc107;
+}
+
+
+.homebutton1{
+    background-color:#ffc107;
+    height: 60px;
+    width: 120px;
+    color: black;
+    text-decoration: none;
+    
+  
+    font-size: 16px;
+    font-weight: 500;
+}
+.homebutton1:hover{
+    color: white;
+}
+/* header complete */
+.aboutcontain{
+    height: 170px;
+    width: 100%;
+    background-color: #ffc107;
+    padding-top: 40px;
+
+}
+.h1about{
+    font-size: 45px;
+    font-weight: 700;
+
+}
+.contain{
+    height: 1400px;
+    width: 100%;
+    
+}
+.spandiv{
+    margin-top: 30px;
+    height: 80px;
+    width: 100%;
+    padding-top: 40px;
+}
+.span{
+    font-size: 20px;
+}
+.blogmain{
+    height: 1134px;
+    width: 74.6%;
+    margin-left: 190px;
+    margin-top: 30px;
+    
+    display: grid;
+    grid-gap: 30px;
+    grid: auto auto / auto auto auto ;
+}
+.blog1{
+    height: 550px;
+    width: 350px;
+    box-shadow: #00000040 0px 0px 25px 0px;
+    text-align: left;
+    
+}
+.blog2{
+    height: 550px;
+    width: 350px;
+    box-shadow: #00000040 0px 0px 25px 0px;
+    text-align: left;
+    
+}
+.blog3{
+    height: 550px;
+    width: 350px;
+    box-shadow: #00000040 0px 0px 25px 0px;
+    text-align: left;
+    
+}
+.blog4{
+    height: 550px;
+    width: 350px;
+    box-shadow: #00000040 0px 0px 25px 0px;
+    text-align: left;
+    
+}
+.blog5{
+    height: 550px;
+    width: 350px;
+    box-shadow: #00000040 0px 0px 25px 0px;
+    text-align: left;
+    
+}
+.blog6{
+    height: 550px;
+    width: 350px;
+    box-shadow: #00000040 0px 0px 25px 0px;
+    text-align: left;
+    
+}
+.blogh{
+    color: black;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.blogspan1{
+    color: red;
+    margin-left: 20px;
+    font-size: 15px;
+    line-height: 40px;
+
+}
+
+.blogspan2{
+    color: red;
+    margin-left: 20px;
+    font-size: 15px;
+    line-height: 40px;
+    
+}
+.blogspan3{
+    margin-left: 20px;
+    margin-right: 30px;
+    line-height: 15px;
+    font-size: 15px;
+    margin-top:     0px;
+    color: #7b7a7a;
+    font-size: 16px;
+    line-height: 23px;
+    font-weight: 100;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer start */
+
+.footermain{
+    background-color: #1b1b1b;
+    height: 586px;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+.footersocial{
+    float: none;
+    width: 326.5px;
+    margin-left: 600px;
+    padding-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.lowernavimg{
+    height: 35px;
+
+}
+.lowerface{
+    float: left;
+    width: 80px;
+    
+
+}
+.lowertwit{
+    float: left;
+    width: 80px;
+    
+
+}
+.lowerinsta{
+    float: left;
+    width: 80px;
+    
+
+}
+.lowerlink{
+    float: right;
+    width: 80px;
+    
+
+}
+.footerlinkmain{
+    height: 300px;
+    width: 80%;
+    margin-left: 140px;
+    margin-top: 15px;
+}
+.footercontact{
+    float: left;
+    height: 300px;
+    width: 24.86%;    
+
+}
+.footeradditional{
+    float: left;
+    height: 300px;
+    width: 24.87%;
+    text-align: left;
+}
+.footerservice{
+    float: left;
+    height: 300px;
+    width: 24.87%;
+    text-align: left;
+}
+.footerabout{
+    float: left;
+    height: 300px;
+    width: 24.86%;
+    text-align: left;
+}
+h2{
+    color: white;
+    text-align: left;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+address{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: left;
+    line-height: 40px;
+}
+.additionallinks{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: left;
+    line-height: 40px;
+}
+.additionallinks:hover{
+    color: #ffc107;
+}
+.aboutp{
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+}
+.copyright{
+    height: 42px;
+    width: 100%;
+    background-color: #ffc107;
+    color: black;
+    padding-top: 18px;
+}
+.copyspan{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 20px;    
+}
+.copyspan1{
+    text-decoration: none;
+    color: black;
+}
+.copyspan1:hover{
+    color: white;
+}
